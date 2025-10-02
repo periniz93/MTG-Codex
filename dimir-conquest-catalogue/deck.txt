@@ -1,0 +1,28 @@
+About
+Name Dimir Conquest Catalogue
+An attrition strategy that mills itself, stockpiles fodder, and converts piles
+of expendable bodies into huge reanimation swings with Lich-Knights' Conquest.
+
+Deck
+4 Stitcher's Supplier
+4 Mire Triton
+4 Jadar, Ghoulcaller of Nephalia
+4 Skyclave Shade
+4 Saiba Syphoner
+4 Go for the Throat
+4 Consider
+4 The Cruelty of Gix
+4 Lich-Knights' Conquest
+4 Underground River
+4 Darkslick Shores
+4 Shipwreck Marsh
+2 Hive of the Eye Tyrant
+2 Hall of Storm Giants
+4 Swamp
+4 Island
+
+Notes
+Cheap self-mill engines flood the graveyard so Conquest and Cruelty can rebuy
+whatever mix of threats and toolbox creatures the moment demands. Saiba Syphoner
+doubles as disruption and a redraw, while Skyclave Shade gives a repeatable
+sacrifice body to feed Conquest's five-permanent clause.

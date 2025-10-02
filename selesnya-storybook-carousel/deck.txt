@@ -1,0 +1,28 @@
+About
+Name Selesnya Storybook Carousel
+Teleportation Circle spins value off small enchantment creatures, reusing
+enters-the-battlefield triggers and letting Serra Paragon rebuy the whole crew.
+
+Deck
+4 Teleportation Circle
+4 Spirited Companion
+4 Inspiring Overseer
+4 The Restoration of Eiganjo
+4 Wedding Announcement
+4 Touch the Spirit Realm
+4 Ambitious Farmhand
+4 Lae'zel's Acrobatics
+4 Serra Paragon
+4 Brushland
+4 Branchloft Pathway
+4 Sunpetal Grove
+2 Boseiju, Who Endures
+2 Eiganjo, Seat of the Empire
+4 Plains
+4 Forest
+
+Notes
+Every draw engine doubles as blink fodder, so Teleportation Circle and Lae'zel's
+Acrobatics churn through the deck. Restoration of Eiganjo and Serra Paragon
+recycle fetchlands and utility creatures, while Touch the Spirit Realm answers
+problematic permanents or becomes a flashy blink trick via channel.

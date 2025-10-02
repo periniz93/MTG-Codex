@@ -1,0 +1,29 @@
+About
+Name Simic Beanstalk Bloom
+Up the Beanstalk turns every expensive ramp payoff into a cantrip, while
+Seedshark incubates extra bodies that Tatyova later animates into evasive
+finishers.
+
+Deck
+4 Up the Beanstalk
+4 Chrome Host Seedshark
+4 Tatyova, Steward of Tides
+4 Joint Exploration
+4 Memory Deluge
+4 Topiary Stomper
+4 Beanstalk Giant
+4 Awaken the Woods
+4 Storm the Festival
+4 Dreamroot Cascade
+4 Barkchannel Pathway
+4 Hinterland Harbor
+2 Boseiju, Who Endures
+2 Otawara, Soaring City
+4 Forest
+4 Island
+
+Notes
+Topiary Stomper and Beanstalk Giant fix mana and trigger Beanstalk's draw, while
+Storm the Festival and Awaken the Woods flood the board with lands for Tatyova
+to animate. Seedshark converts every instant-speed ramp spell into incubate
+tokens that later hatch into buffed attackers.

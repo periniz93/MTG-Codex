@@ -1,0 +1,24 @@
+About
+Name Mono-Blue Outcome Reservoir
+Paradoxical Outcome loops cheap artifacts to fuel Aetherflux Reservoir, with Sai
+producing an overwhelming stream of thopters mid-combo.
+
+Deck
+4 Paradoxical Outcome
+4 Sai, Master Thopterist
+4 Aetherflux Reservoir
+4 Mox Amber
+4 Ornithopter
+4 Witching Well
+4 Golden Egg
+4 Baral, Chief of Compliance
+4 Consider
+4 Spire of Industry
+4 Inventors' Fair
+16 Island
+
+Notes
+Mox Amber plus Baral or Sai provide mana positive loops once Paradoxical Outcome
+returns a handful of baubles. Inventors' Fair tutors for Reservoir or Outcome
+depending on board state, while Sai's thopters buy the time needed to assemble
+the combo.

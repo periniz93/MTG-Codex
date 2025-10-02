@@ -1,0 +1,28 @@
+About
+Name Gruul Bardstorm Legends
+Bard Class supercharges a parade of cheap legends, chaining mana-positive plays
+into explosive turns that go tall and wide simultaneously.
+
+Deck
+4 Bard Class
+4 Magda, Brazen Outlaw
+4 Gallia of the Endless Dance
+4 Radha, Heart of Keld
+4 Domri, Anarch of Bolas
+4 Klothys, God of Destiny
+4 Birgi, God of Storytelling
+4 Reckless Stormseeker
+4 Domri's Ambush
+4 Karplusan Forest
+4 Rockfall Vale
+4 Cragcrown Pathway
+2 Boseiju, Who Endures
+2 Sokenzan, Crucible of Defiance
+4 Forest
+4 Mountain
+
+Notes
+Levels two and three of Bard Class let the deck double-spell legends with ease;
+Birgi and Magda convert that momentum into mana and treasure, while Domri's
+Ambush keeps opposing blockers out of the way for a hasty Reckless Stormseeker-
+finisher swing.

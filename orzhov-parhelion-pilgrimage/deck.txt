@@ -1,0 +1,28 @@
+About
+Name Orzhov Parhelion Pilgrimage
+Greasefang pilots Parhelion II, but the deck leans on white recursion like
+Extraction Specialist to replay its namesake pilot in grindy games.
+
+Deck
+4 Greasefang, Okiba Boss
+4 Raffine's Informant
+4 Scrapwork Mutt
+4 Parhelion II
+4 Skysovereign, Consul Flagship
+4 Reckoner Bankbuster
+4 Duress
+4 Go for the Throat
+4 Extraction Specialist
+4 Shattered Sanctum
+4 Concealed Courtyard
+4 Caves of Koilos
+2 Takenuma, Abandoned Mire
+2 Eiganjo, Seat of the Empire
+4 Plains
+4 Swamp
+
+Notes
+Scrapwork Mutt and Raffine's Informant ensure Parhelion and Skysovereign reach
+the graveyard, while Extraction Specialist and Takenuma replay Greasefang
+through removal. Reckoner Bankbuster doubles as discard fodder and a card
+advantage engine to keep hands stocked.

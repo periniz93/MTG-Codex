@@ -1,0 +1,28 @@
+About
+Name Golgari Compost Coven
+A food-and-sacrifice grind engine that loops Cauldron Familiar drains while
+Tyvar untaps utility creatures for surprise bursts of value.
+
+Deck
+4 Cauldron Familiar
+4 Witch's Oven
+4 Trail of Crumbs
+4 Gilded Goose
+4 Deadly Dispute
+4 Ravenous Squirrel
+4 Feasting Troll King
+4 Tyvar, Jubilant Brawler
+4 Fatal Push
+4 Blooming Marsh
+4 Woodland Cemetery
+4 Darkbore Pathway
+2 Hive of the Eye Tyrant
+2 Boseiju, Who Endures
+4 Swamp
+4 Forest
+
+Notes
+Tyvar lets Ravenous Squirrel and Gilded Goose immediately generate resources,
+while Feasting Troll King repeatedly reanimates thanks to the constant food
+production. Trail of Crumbs turns every oven loop into card advantage so the
+deck rarely runs out of gas.

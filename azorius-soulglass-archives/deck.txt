@@ -1,0 +1,29 @@
+About
+Name Azorius Soulglass Archives
+A disturb-based tempo deck that recycles its creatures with flicker and
+graveyard loops, leaning on disturb bodies to keep pressure while filtering
+through the library.
+
+Deck
+4 Chaplain of Alms
+4 Dorothea, Vengeful Victim
+4 Dennick, Pious Apprentice
+4 Malevolent Hermit
+4 Shipwreck Sifters
+4 Faithful Mending
+4 Otherworldly Gaze
+4 Faithbound Judge
+4 Extraction Specialist
+4 Deserted Beach
+4 Glacial Floodplain
+2 Hengegate Pathway
+6 Plains
+6 Island
+1 Eiganjo, Seat of the Empire
+1 Otawara, Soaring City
+
+Notes
+Disturb threats recur through the Extraction Specialists while Shipwreck Sifters
+and Faithful Mending churn the graveyard. Faithbound Judge closes games as an
+unanswerable threat once it flips, and the deck keeps mana up for Malevolent
+Hermit to guard its engines.
