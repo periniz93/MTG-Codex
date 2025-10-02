@@ -21,6 +21,8 @@ These instructions are for anyone generating decks for this repository. Follow t
   - Any supplemental notes or assets relevant to the deck (optional).
 
 ## Decklist Format
+- Use the provided spreadsheet info for which cards are in the collection.
+- If a card has quantity 0 and you'd like it in the deck, you can suggest, but use very sparingly, because the user only has so many cards they can unlock this way. Lean toward using cards that are already there.
 - Use the provided `template.txt` file as a reference for formatting Arena-ready deck exports.
 - Maintain the `About`/`Deck` section headers so the list can be copied directly into MTG Arena.
 - Ensure card counts and names exactly match official card titles recognized by Arena.
