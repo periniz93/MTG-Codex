@@ -1,0 +1,23 @@
+About
+Name Mono-Green Mutation Choir
+Aggressive one-drops curve into mutate threats, letting Gemrazer and friends
+stack keywords onto resilient bodies for oversized trampling attackers.
+
+Deck
+4 Pelt Collector
+4 Ascendant Packleader
+4 Stonecoil Serpent
+4 Werewolf Pack Leader
+4 Old-Growth Troll
+4 Gemrazer
+4 Ranger Class
+4 Blizzard Brawl
+4 Tyvar's Stand
+3 Boseiju, Who Endures
+3 Lair of the Hydra
+18 Forest
+
+Notes
+Stonecoil Serpent gives the mutate stack reach and ward, letting Gemrazer turn
+it into a massive trampler. Ranger Class buffs the board and supplies late-game
+card flow, while Tyvar's Stand protects key mutate stacks from sweepers.

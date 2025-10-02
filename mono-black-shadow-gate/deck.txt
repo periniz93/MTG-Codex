@@ -1,0 +1,25 @@
+About
+Name Mono-Black Shadow Gate
+Shadow-Rite Priest threatens to cheat gigantic demons into play, turning
+disposable one-drops into surprise finishers supported by heavy black
+disruption.
+
+Deck
+4 Shadow-Rite Priest
+4 Cult Conscript
+4 Tenacious Underdog
+4 Graveyard Trespasser
+4 Archfiend of the Dross
+4 Angel of Suffering
+4 Go for the Throat
+4 Sheoldred, the Apocalypse
+4 The Cruelty of Gix
+4 Castle Locthwain
+4 Hive of the Eye Tyrant
+16 Swamp
+
+Notes
+Priest tutors up Archfiend or Angel of Suffering for sudden lethal swings, while
+The Cruelty of Gix doubles as removal and a reanimation spell. Graveyard
+Trespasser keeps opposing graveyards in check so Archfiend's upkeep clause
+remains manageable.

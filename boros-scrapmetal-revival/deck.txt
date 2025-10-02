@@ -1,0 +1,28 @@
+About
+Name Boros Scrapmetal Revival
+A red-white reanimator shell that tutors giant artifacts with Reckless Handling,
+pitches them, then welds them back via Repair and Recharge.
+
+Deck
+4 Reckless Handling
+4 Thrilling Discovery
+4 Big Score
+4 Repair and Recharge
+4 Sanctuary Warden
+4 Cityscape Leveler
+4 Portal to Phyrexia
+4 Fable of the Mirror-Breaker
+4 Portable Hole
+4 Sacred Foundry
+4 Inspiring Vantage
+4 Needleverge Pathway
+2 Sokenzan, Crucible of Defiance
+2 Eiganjo, Seat of the Empire
+4 Mountain
+4 Plains
+
+Notes
+Reckless Handling both finds and discards artifacts, setting up Repair and
+Recharge to cheat Portal to Phyrexia or Cityscape Leveler ahead of schedule.
+Fable and Thrilling Discovery keep the graveyard stocked while producing bodies
+to pressure or defend.

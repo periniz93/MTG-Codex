@@ -1,0 +1,28 @@
+About
+Name Rakdos Furnace Hijinks
+A theft-and-sacrifice shell that weaponizes temporary steals with Oni-Cult Anvil
+drains and Braids triggers.
+
+Deck
+4 Oni-Cult Anvil
+4 Experimental Synthesizer
+4 Voldaren Epicure
+4 Bloodtithe Harvester
+4 Braids, Arisen Nightmare
+4 Deadly Dispute
+4 Voltage Surge
+4 Furnace Reins
+4 Sokenzan Smelter
+4 Haunted Ridge
+4 Blackcleave Cliffs
+4 Sulfurous Springs
+2 Sokenzan, Crucible of Defiance
+2 Takenuma, Abandoned Mire
+4 Swamp
+4 Mountain
+
+Notes
+Furnace Reins and Voltage Surge turn opposing creatures into damage, then Oni-
+Cult Anvil and Braids cash in the stolen bodies for cards and incremental life-
+drain. Sokenzan Smelter recycles Synthesizers into construct threats, ensuring a
+relentless stream of artifacts to sacrifice.

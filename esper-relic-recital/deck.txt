@@ -1,0 +1,31 @@
+About
+Name Esper Relic Recital
+Dance of the Manse revives a suite of sagas and omens, letting Doom Foretold
+grind the opponent down before a giant artifact-enchantment army returns from
+the graveyard.
+
+Deck
+4 Dance of the Manse
+4 Doom Foretold
+4 Trial of Ambition
+4 Omen of the Sea
+4 Omen of the Sun
+4 The Restoration of Eiganjo
+4 Temporary Lockdown
+4 Wedding Announcement
+4 Supreme Verdict
+4 Hallowed Fountain
+4 Watery Grave
+4 Godless Shrine
+2 Deserted Beach
+2 Shipwreck Marsh
+2 Shattered Sanctum
+2 Raffine's Tower
+2 Island
+2 Plains
+
+Notes
+Omen cycles keep cards flowing while feeding Doom Foretold's upkeep, and Dance
+of the Manse returns everything as beefy artifact creatures to close the game in
+one swing. Supreme Verdict and Temporary Lockdown reset the board to ensure the
+late-game recursion sticks.

@@ -1,0 +1,30 @@
+About
+Name Temur Gateway Menagerie
+Transmogrify effects turn stray tokens into enormous monsters, letting the deck
+play a draw-go game until it's time to drop Titans and Italis.
+
+Deck
+4 Transmogrify
+4 Lukka, Coppercoat Outcast
+4 Fable of the Mirror-Breaker
+4 Big Score
+4 Prismari Command
+4 Unexpected Windfall
+4 Make Disappear
+4 Titan of Industry
+4 Itali, Primal Conqueror
+4 Stormcarved Coast
+4 Rockfall Vale
+4 Dreamroot Cascade
+2 Cragcrown Pathway
+2 Riverglide Pathway
+2 Barkchannel Pathway
+2 Sokenzan, Crucible of Defiance
+2 Boseiju, Who Endures
+2 Otawara, Soaring City
+
+Notes
+Fable provides the token bodies and filtering needed to set up Transmogrify,
+while Make Disappear holds the fort until a Titan of Industry or Itali takes
+over. Big Score and Windfall clear giant creatures from hand if drawn naturally,
+replacing them with fresh interaction.
